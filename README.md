@@ -1,2 +1,3 @@
-# restaurant_three_foods
-restaurant three foods
+# Restaurant Three Foods
+
+Restaurant Three Foods
