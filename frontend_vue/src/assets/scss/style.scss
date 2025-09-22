@@ -1,0 +1,22 @@
+@use 'Framework/Framework';
+.wrapper {
+  .inner {
+    .p-card-header {
+      overflow: hidden;
+      height: 300px;
+      img {
+        height: 300px;
+        width: 100%;
+        &.image_scale {
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+}
+.header_logo {
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
